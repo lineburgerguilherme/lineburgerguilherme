@@ -5,7 +5,7 @@
 
 <div dsplay="inline-block">
  
- <h1 align="left">Guilherme Machado Lineburgert</h1>
+ <h1 align="left">Guilherme Machado Lineburger</h1>
  <a href="https://www.instagram.com/guilhermeluneburger/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
